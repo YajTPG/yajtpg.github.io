@@ -1,6 +1,7 @@
 {
   "short_name": "About YajTPG",
   "name": "YajTPG's website.",
+  "description": "Yaj's personal website which he never bothered making.",
   "icons": [
     {
       "src": "favicons/favicon.ico",
